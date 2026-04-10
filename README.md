@@ -1,6 +1,6 @@
 My Coding Journey :
 
-This repository serves as a personal archive of my solutions to various Data Structures and Algorithms (DSA) and competitive programming problems. My focus is on improving problem-solving efficiency and mastering core computer science concepts.
+This repository serves as a personal archive of my solutions to various Data Structures and Algorithms (DSA) and competitive programming problems. My focus is on improving problem solving efficiency and mastering core computer science concepts.
 
 Repository Structure
 Leetcode: Solutions to problems from the LeetCode platform, covering topics such as Arrays, Trees, and Dynamic Programming.
